@@ -1,3 +1,9 @@
 # Welcome!
 ## This project involves creating a Virtual Reality tour through [vizor.io](https://vizor.io/projects) and the [Oculus Rift](https://www.oculus.com/rift/)
  Gracynn Stafford is the leader of this project and attends Pinnacle View Middle School.
+
+## 360
+
+This is my 360 photo
+<script src='//vizor.io/static/scripts/vizor-360-embed.js' data-vizorurl='//vizor.io/embed/gspvms1027/outside-photo---test'></script>
+This is a photo of the outside area at the front entrance to Pinnacle View Middle School.
