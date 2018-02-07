@@ -7,3 +7,5 @@
 This is my 360 photo
 
 https://vizor.io/gspvms1027/outside-photo---test
+
+I created this image to showcase the entrance to our school and what every Skyhawk sees first thing in the morning. I hope it gives viewers a look into our school and the atmosphere surrounding it.
